@@ -110,4 +110,3 @@ Traveller: Thank you, Tina Rex!
 The Traveller and the princess lived happily ever after.
 
 The End.
-![image](https://user-images.githubusercontent.com/76639866/184500714-262a6e78-89f3-4864-a346-12adbea66ebd.png)
