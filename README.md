@@ -19,4 +19,5 @@ The following cheat codes can be used to complete the puzzle without using Artco
 游戏剧本及绘画设计均由本人完成。  
 The game script and illustration are done by myself.  
 
-
+请勿用于任何商业用途！  
+Non-Commercial Use!  
