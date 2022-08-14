@@ -12,6 +12,11 @@ Specially Designed for Nottingham Natural History Museum to enchance the visitin
 
 为了达到最佳游玩体验，玩家可以使用移动端Python IDE运行代码，并下载Artcode用于交互。（非必需）  
 在不使用Artcode的情况下，可使用以下作弊码完成解谜。  
+For the best playing experience, a mobile Python IDE and Artcodes is recommended. (not mandatory)  
+The following cheat codes can be used to complete the puzzle without using Artcodes.  
 「111」「112」「113」「114」「115」「122」  
 
-游戏剧本及绘画设计均由本人完成。
+游戏剧本及绘画设计均由本人完成。  
+The game script and illustration are done by myself.  
+
+
